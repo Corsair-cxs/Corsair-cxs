@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corsair-cxs)](https://github.com/anuraghazra/github-readme-stats)
+![Corsair-cxs's github stats](https://github-readme-stats.vercel.app/api?username=Corsair-cxs&show_icons=true&theme=merko)
